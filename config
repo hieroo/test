@@ -1,0 +1,4 @@
+show run 
+show cdp neg	
+show vlan 
+show ip inter brif
